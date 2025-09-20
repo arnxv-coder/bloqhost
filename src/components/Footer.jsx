@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer glass">
       <p>© {new Date().getFullYear()} BloqHost. All rights reserved.</p>
       <div className="socials">
-        <a href="#">Twitter</a> | <a href="#">Discord</a> | <a href="#">GitHub</a>
+        <a href="https://github.com/arnxv-coder/bloqhost">GitHub Code</a>
       </div>
     </footer>
   );
